@@ -2,12 +2,12 @@
 
 My name is Thomas, and I'm a 17 year-old French man and I love code. Here you'll find every single projects that I could make for fun or for work 👀
 
-##Coding languages that I use
+## Coding languages that I use
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=642eda)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=javat&logoColor=white&color=642eda)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=642eda)
 
-##Stats (I love it)
+## Stats (I love it)
 <a href="https://github.com/Sigeth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigeth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" />
 </a>
