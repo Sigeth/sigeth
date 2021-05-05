@@ -9,11 +9,11 @@ My name is Thomas, and I'm a 17 year-old French man and I love code. Here you'll
 
 ## Stats (I love it)
 <a href="https://github.com/Sigeth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigeth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" />
+  <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigeth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" /></center>
 </a>
-<br>
+<br><br>
 <a href="https://github.com/Sigeth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sigeth&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" alt="Sigeth's GitHub Stats" />
+  <center><img src="https://github-readme-stats.vercel.app/api?username=Sigeth&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" alt="Sigeth's GitHub Stats" /></center>
 </a>
 
 
