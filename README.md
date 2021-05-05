@@ -16,7 +16,7 @@ My name is Thomas, and I'm a 17 year-old French man and I love code. Here you'll
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sigeth&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" alt="Sigeth's GitHub Stats" />
 </a>
 <br><br>
-<a href="https://github.com/Sigeth">
+<a href="https://wakatime.com/@Sigeth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sigeth&range=last_30_days&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" alt="Sigeth's GitHub Stats" />
 </a>
 
