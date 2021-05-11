@@ -8,9 +8,9 @@ My name is Thomas, and I'm a 17 year-old French man and I love code. Here you'll
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=642eda)
 
 ## IDEs that I use
-![](https://img.shields.io/badge/IDE-IntelliJ IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=642eda)
-![](https://img.shields.io/badge/IDE-VS Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=642eda)
-![](https://img.shields.io/badge/IDE-Android Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=642eda)
+![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=642eda)
+![](https://img.shields.io/badge/IDE-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=642eda)
+![](https://img.shields.io/badge/IDE-Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=642eda)
 
 ## Stats (I love 'em)
 <a href="https://github.com/Sigeth">
