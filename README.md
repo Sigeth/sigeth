@@ -25,6 +25,10 @@ My name is Thomas, and I'm a 17 year-old French man and I love code. Here you'll
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Sigeth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" alt="Sigeth's GitHub Stats" />
 </a>
 
+## Social networks
+![](https://img.shields.io/twitter/follow/TSigeth?style=social)
+![](https://img.shields.io/youtube/channel/subscribers/UC-kdZAQBM7sfqHNrL3RFscA?style=social)
+
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
