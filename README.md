@@ -6,6 +6,7 @@ My name is Thomas, and I'm a 17 year-old French man and I love code. Here you'll
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=642eda)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=642eda)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=642eda)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=642eda)
 
 ## IDEs that I use
 ![](https://img.shields.io/badge/IDE-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=642eda)
