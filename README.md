@@ -2,18 +2,6 @@
 
 Thomas, passionate student @ ISEN Méditerranée. Find here stats from my work at school and for fun.
 
-## Coding languages that I use
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=642eda)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=642eda)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=642eda)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=642eda)
-
-## IDEs that I use
-![](https://img.shields.io/badge/IDE-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=642eda)
-![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=642eda)
-![](https://img.shields.io/badge/IDE-Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=642eda)
-![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=642eda)
-
 ## Stats
 <a href="https://github.com/Sigeth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigeth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" />
