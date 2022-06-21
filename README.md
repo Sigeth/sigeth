@@ -1,6 +1,6 @@
-# Welcome on my GitHub !
+# Thomas "Sigeth" S. GitHub
 
-My name is Thomas, and I'm a 18 year-old French man and I love code. Here you'll find every single projects that I could make for fun or for work 👀
+Thomas, passionate student @ ISEN Méditerranée. Find here stats from my work at school and for fun.
 
 ## Coding languages that I use
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=642eda)
