@@ -12,7 +12,7 @@ Thomas, passionate student @ ISEN Méditerranée. Find here stats from my work a
 </a>
 <br><br>
 <a href="https://wakatime.com/@Sigeth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Sigeth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" alt="Sigeth's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Sigeth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda&langs_count=20" alt="Sigeth's GitHub Stats" />
 </a>
 
 ## Social networks
