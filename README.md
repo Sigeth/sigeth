@@ -4,7 +4,7 @@ Thomas, passionate student @ ISEN Méditerranée. Find here stats from my work a
 
 ## Stats
 <a href="https://github.com/Sigeth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigeth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda&size_weight=0.5&count_weight=0.5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigeth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda&size_weight=0.25&count_weight=0.5" />
 </a>
 <br><br>
 <a href="https://github.com/Sigeth">
