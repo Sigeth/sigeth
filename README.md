@@ -6,7 +6,6 @@ Thomas, passionate student @ ISEN Méditerranée. Find here stats from my work a
 <a href="https://github.com/Sigeth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigeth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda&size_weight=1&count_weight=2&layout=pie&langs_count=20" />
 </a>
-<br><br>
 <a href="https://github.com/Sigeth">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sigeth&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" alt="Sigeth's GitHub Stats" />
 </a>
