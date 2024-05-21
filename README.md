@@ -33,9 +33,3 @@ Thomas, passionate student @ ISEN Méditerranée. Find here stats from my work a
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
-<style>
-  #stats {
-    display: flex;
-  }
-</style>
