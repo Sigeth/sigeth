@@ -21,12 +21,6 @@ Thomas, passionate student @ ISEN Méditerranée. Find here stats from my work a
   </a>
 </div>
 
-## Social networks
-![](https://img.shields.io/twitter/follow/TSigeth?style=social)
-![](https://img.shields.io/youtube/channel/subscribers/UC-kdZAQBM7sfqHNrL3RFscA?style=social)
-
-
-![](https://hit.yhype.me/github/profile?user_id=52868615)
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
